@@ -13,6 +13,15 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 ## 사용방법
 
+npm
+
+```bash
+npm i typeface-nanum-square-round
+```
+```js
+import 'typeface-nanum-square-round'
+```
+
 link 방식
 
 ```html
