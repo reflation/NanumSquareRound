@@ -1,6 +1,6 @@
 {
   "name": "typeface-nanum-square-round",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hangul font for title, created by NAVER.",
   "main": "nanumsquareround.css",
   "scripts": {
