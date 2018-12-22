@@ -13,7 +13,7 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원되며, 이중 원하
 ### `npm install`
 
 ```bash
-npm i typeface-nanum-square-round
+npm i typeface-nanum-square-round-subset
 ```
 
 ### js
