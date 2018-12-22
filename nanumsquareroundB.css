@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
+  font-weight: 700;
+  src: local("NanumSquareRoundB"), local("NanumSquareRoundOTFB"), /* computer */
+    url("NanumSquareRoundB.woff2") format("woff2"), /* Modern Browsers */
+    url("NanumSquareRoundB.woff") format("woff"), /* Modern Browsers */
+    url("NanumSquareRoundB.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("NanumSquareRoundB.eot"), /* IE9 Compat Modes */
+    url("NanumSquareRoundB.eot?#iefix") format("embedded-opentype"); /* IE6-IE8 */
+}
