@@ -7,21 +7,3 @@
 ## Thickness subset
 
 Regular(400), Bold(700), Extra Bold(800), Light(300) 지원되며, 이중 원하는 굵기의 폰트 파일만 사용하여 페이지 로딩을 줄일 수 있습니다.
-
-## 사용방법
-
-### `npm install`
-
-```bash
-npm i typeface-nanum-square-round-subset
-```
-
-### js
-
-```js
-import 'typeface-nanum-square-round-subset/nanumsquareroundR.min.css'
-// OR..
-// import 'typeface-nanum-square-round-subset/nanumsquareroundL.min.css'
-// import 'typeface-nanum-square-round-subset/nanumsquareroundB.min.css'
-// import 'typeface-nanum-square-round-subset/nanumsquareroundEB.min.css'
-```
